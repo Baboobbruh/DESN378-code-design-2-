@@ -9,10 +9,10 @@ Update it once, keep it consistent everywhere.
 
 | Field | Value |
 |-------|-------|
-| **Name** | <!-- First Last --> |
-| **Preferred Name** | <!-- What should I call you? --> |
-| **Pronouns** | <!-- Optional --> |
-| **EWU Email** | <!-- @ewu.edu --> |
+| **Name** | Fabian Meza |
+| **Preferred Name** | Fabian |
+| **Pronouns** | he/him |
+| **EWU Email** | fmezacera@ewu.edu |
 
 ---
 
@@ -22,9 +22,9 @@ Update it once, keep it consistent everywhere.
 
 | Platform | Profile URL | Status |
 |----------|-------------|--------|
-| **GitHub** | `https://github.com/________` | ⏳ |
-| **Figma** | `@________` | ⏳ |
-| **CodePen** | `https://codepen.io/________` | ⏳ |
+| **GitHub** | `https://github.com/Baboobbruh` | ✅ |
+| **Figma** | `@coolshark` | ✅ |
+| **CodePen** | `https://github.com/Baboobbruh` | ✅ |
 | **Portfolio** | *Coming Week 10* | 🔲 |
 
 ---
@@ -41,9 +41,9 @@ Update it once, keep it consistent everywhere.
 
 | Item | Status |
 |------|--------|
-| Applied/Renewed | ⏳ |
-| Copilot Access | ⏳ |
-| Expires | <!-- Date --> |
+| Applied/Renewed | ✅ |
+| Copilot Access | ✅ |
+| Expires | 01/19/27 |
 
 👉 [Check status or renew](https://education.github.com/pack)
 
@@ -53,9 +53,9 @@ Update it once, keep it consistent everywhere.
 
 | Item | Status |
 |------|--------|
-| Education Plan Active | ⏳ |
-| Joined Course Team | ⏳ |
-| Expires | <!-- Date --> |
+| Education Plan Active | ✅ |
+| Joined Course Team | ✅ |
+| Expires | Cannot Check This ❌ |
 
 👉 [Check status](https://www.figma.com/settings) → Plan
 
@@ -66,8 +66,7 @@ Update it once, keep it consistent everywhere.
 *Optional: A sentence or two about your design interests. This could seed your eventual portfolio bio.*
 
 <!-- 
-Example: "I'm drawn to motion design and systems thinking. 
-Currently exploring how interaction design can feel more human."
+I'm obsessed with storytelling that is impactful to the viewer in any shape or form, and I want to communicate my narratives through animation.
 -->
 
 ---
