@@ -1,6 +1,6 @@
 # DESN 378: Code + Design 2
 
-🔗 **[Learning Log](https://CoolShark-guy.github.io/DESN378-code-design-2-)**
+🔗 **[Learning Log](https://CoolShark-guy.github.io/DESN378-code-design-2)**
 🔗 **[DESN368 Portfolio] https://portfolio-fm-368.netlify.app/
 
 ---
