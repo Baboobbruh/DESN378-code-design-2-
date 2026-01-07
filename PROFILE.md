@@ -22,9 +22,9 @@ Update it once, keep it consistent everywhere.
 
 | Platform | Profile URL | Status |
 |----------|-------------|--------|
-| **GitHub** | `https://github.com/Baboobbruh` | ✅ |
+| **GitHub** | `https://github.com/CoolShark-guy` | ✅ |
 | **Figma** | `@coolshark` | ✅ |
-| **CodePen** | `https://github.com/Baboobbruh` | ✅ |
+| **CodePen** | `https://codepen.io/CoolShark-guy` | ✅ |
 | **Portfolio** | *Coming Week 10* | 🔲 |
 
 ---
