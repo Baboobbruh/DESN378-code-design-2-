@@ -61,6 +61,36 @@ I think I just need more repitition with the concepts taught in week 0 here, i.e
 
 ### Week 1: Systems That Respond
 
+### What I Learned
+I've drilled the concepts of variable declarations in my head and I know what they do and how to use them. I'm also able to parse through JavaScript significantly better than before. I can read it and have an idea of what I'm looking at.
+
+### What Was Hard
+Understanding if/else statements and the syntax of other elements in JavaScript. I just need repetition on these bits of code to understand them and be able to write them with some effort.
+
+### How I Used AI
+I used Claude Sonnet 4.5 to help me build my story-teller assignment in week 1. It built the HTML and CSS framework under my supervision. If there were elements I didn't understand, I went back and questioned it until I had enough of an understanding to move on, and I would repeat this until I finished the project. Some elements of the JavaScript still elude me, but the more I question the AI and the more I practice typing it out, I will grasp it.
+
+### What's Still Unclear
+If/else statements have been my biggest hurdle. I can read them and I understand what they do theoretically, but there is a lot of syntax in them that I do not understand whatsoever.
+
+### Work Completed (Week 1)
+
+**Engage**
+- [✅] VS Code Theme Setup
+
+**Learn**
+- [ ] Codedex.io Variables
+- [ ] HTML Academy 
+
+**Practice**
+- [✅] The Story Teller
+
+**Build**
+- [✅] Portfolio Migration
+- [ ] Portfolio in Figma + Style Tile
+
+**Reflect**
+- [ ] Visual Notes: Week 1---
 
 ### Week 2: Remembering Choices
 *Coming soon...*
