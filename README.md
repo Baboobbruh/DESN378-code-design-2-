@@ -38,7 +38,7 @@ I used Claude to help me troubleshoot my code by giving it my behavioral-layer f
 ​
 ​
 ### What's Still Unclear
-I think I just need more repitition with the concepts taught in week 0 here, i.e. event listener, functions, setting inputs to local storage, or not doing so using "!" and so on.
+I think I just need more repetition with the concepts taught in week 0 here, i.e. event listener, functions, setting inputs to local storage, or not doing so using "!" and so on.
 ​
 ​
 ### Work Completed (Week 0)
@@ -92,19 +92,16 @@ If/else statements have been my biggest hurdle. I can read them and I understand
 **Reflect**
 - [x] Visual Notes: Week 1---
 
-### Week 2: Remembering Choices
-*Coming soon...*
-
 ---
 
-## Week 2
+### Week 2: Remembering Choices
 ​
 ### What I Learned
 Using Figma I learned how important design systems are to create a cohesive brand system that works across multiple platforms, as well the basics of how to switch a websites themes from light to dark and vice versa. I also practiced conditionals a bit more in codedex.io.
 ​
 ​
 ### What Was Hard
-Setting up variables and learning how to organize them efficiently was very tedious as well as drilling else if statements into my head.
+Setting up variables and learning how to organize them efficiently was very tedious as well as drilling conditional statements in my head.
 ​
 ​
 ### How I Used AI
@@ -114,7 +111,24 @@ I used Claude to explain elements of conditionals I didn't understand, as well a
 ### What's Still Unclear
 Switching themes are still a bit unclear to me, but once I get more practice with the code itself and learning the syntax, there shouldn't be much trouble.
 ​
-​
+### Work Completed (Week 2)
+
+**Engage**
+- [x] VS Code Theme Setup
+
+**Learn**
+- [x] Codedex.io Conditionals
+- [x] figma variables
+
+**Practice**
+- [x] The Switch
+
+**Build**
+- [x] The Foundation
+- [x] Portfolio in Figma + Style Tile
+
+**Reflect**
+- [x] Visual Notes: Week 2---​
 
 ## Quick Links
 
