@@ -44,18 +44,18 @@ I think I just need more repitition with the concepts taught in week 0 here, i.e
 ### Work Completed (Week 0)
 ​
 **Engage**
-- [✅] Portfolio Audit
+- [x] Portfolio Audit
 ​
 **Learn**
-- [✅] Console Explorer
-- [✅] Codedex Console Fundamentals
+- [x] Console Explorer
+- [x] Codedex Console Fundamentals
 ​
 **Reflect**
-- [✅] Visual Notes: Variables and Strings
+- [x] Visual Notes: Variables and Strings
 ​
 **Build**
-- [✅] The Setup
-- [✅] The Behavioral Layer
+- [x] The Setup
+- [x] The Behavioral Layer
 ​
 ---
 
@@ -76,26 +76,45 @@ If/else statements have been my biggest hurdle. I can read them and I understand
 ### Work Completed (Week 1)
 
 **Engage**
-- [✅] VS Code Theme Setup
+- [x] VS Code Theme Setup
 
 **Learn**
-- [ ] Codedex.io Variables
-- [ ] HTML Academy 
+- [x] Codedex.io Variables
+- [x] HTML Academy 
 
 **Practice**
-- [✅] The Story Teller
+- [x] The Story Teller
 
 **Build**
-- [✅] Portfolio Migration
-- [ ] Portfolio in Figma + Style Tile
+- [x] Portfolio Migration
+- [x] Portfolio in Figma + Style Tile
 
 **Reflect**
-- [ ] Visual Notes: Week 1---
+- [x] Visual Notes: Week 1---
 
 ### Week 2: Remembering Choices
 *Coming soon...*
 
 ---
+
+## Week 2
+​
+### What I Learned
+Using Figma I learned how important design systems are to create a cohesive brand system that works across multiple platforms, as well the basics of how to switch a websites themes from light to dark and vice versa. I also practiced conditionals a bit more in codedex.io.
+​
+​
+### What Was Hard
+Setting up variables and learning how to organize them efficiently was very tedious as well as drilling else if statements into my head.
+​
+​
+### How I Used AI
+I used Claude to explain elements of conditionals I didn't understand, as well as how to use them, as well as helping me understand how to switch themes.
+​
+​
+### What's Still Unclear
+Switching themes are still a bit unclear to me, but once I get more practice with the code itself and learning the syntax, there shouldn't be much trouble.
+​
+​
 
 ## Quick Links
 
