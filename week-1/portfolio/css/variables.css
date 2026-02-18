@@ -6,15 +6,30 @@
 
 /* Primitives */
 :root {
+  /* light mode colors */
   --cyan: #4cc9f0;
   --blue: #4361ee;
   --purple: #3a0ca3;
   --pink: #f72585;
   --white: #ffffff;
+
+  /*dark mode colors*/
+  --cyan-dark: #b0bcc0;
+  --blue-dark: #6b6b7b;
+  --purple-dark: #373240;
+  --pink-dark: #928085;
+  --white-dark: #ffffff;
+
+    /* Default semantic tokens (light mode) */
+  --primary: var(--cyan);
+  --secondary-1: var(--blue);
+  --secondary-2: var(--purple);
+  --surface-border: var(--pink);
+  --text: var(--white);
 }
 
 /* Light mode (default) */
-:root {
+[data-theme="light"] {
   --primary: var(--cyan);
   --secondary-1: var(--blue);
   --secondary-2: var(--purple);
@@ -24,11 +39,11 @@
 
 /* Dark mode */
 [data-theme="dark"] {
-  --secondary-1: #6b6b7b;
-  --secondary-2: #373240;
-  --primary: #b0bcc0;
-  --surface-border: #928085;
-  --text: #ffffff;
+  --primary: var(--cyan-dark);
+  --secondary-1: var(--blue-dark);
+  --secondary-2: var(--purple-dark);
+  --surface-border: var(--pink-dark);
+  --text: var(--white-dark);
 }
 
 /* ==================== */
