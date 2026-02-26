@@ -280,38 +280,6 @@ p, a {
   color: var(--text);
 }
 
-.theme-toggle-group {
-  position: fixed;
-  bottom: 20px;
-  left: 20px;
-  display: flex;
-  gap: 8px;
-  z-index: 1000;
-}
-
-.theme-btn {
-  padding: 10px 15px;
-  background-color: var(--surface-border);
-  color: var(--text);
-  border: 2px solid var(--text);
-  border-radius: 8px;
-  font-family: var(--font-family-secondary);
-  font-weight: var(--text-weight-nav);
-  font-size: 18px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-.theme-btn:hover {
-  background-color: var(--secondary-1);
-  transform: scale(1.05);
-}
-
-.theme-btn:focus {
-  outline: 3px solid var(--text);
-  outline-offset: 3px;
-}
-
 /* ===================== */
 /* Theme Dropdown        */
 /* ===================== */
@@ -440,16 +408,10 @@ p, a {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .theme-trigger,
-  .theme-option {
-    transition: none;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
   .nav-link-box,
   .nav-link,
-  .theme-btn {
+  .theme-trigger,
+  .theme-option {
     transition: none;
   }
 }
