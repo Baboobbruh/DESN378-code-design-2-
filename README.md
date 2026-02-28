@@ -145,5 +145,42 @@ Switching themes are still a bit unclear to me, but once I get more practice wit
 - **Animation:** GSAP (coming Week 5)
 
 ---
+​
+## Week 3 — Signal & State
+
+### What I Learned
+I learned what design tokens are in CSS and how to structure them, using primitive tokens (like --cyan) and semantic tokens (like --primary). I also learned how to store themes using localStorage in the browser so that when the user refreshes the page, the theme persists. I've also learned why :root needs fallback values for semantic tokens, just in case JavaScript hasn't run yet.
+
+### What Was Hard
+Debugging code like addEventListener, as well as distinguishing the difference between document.documentElement vs document.body, which was difficult for me to grasp at the time.
+ - Understanding what variables did wasn't hard, but understanding the underlying code was. Finding out why we use both semantic and primitive tokens was difficult to understand. I found myself wondering why we don't just use primitive tokens instead of both.
+
+### How I Used AI
+I used Claude to help track down bugs in the toggle logic and explain why they were bugs, as well as for coaching on data-theme, localStorage, and matchMedia. I also used it to review styles.css for any remaining hardcoded values that should be tokens.
+
+### What's Still Unclear
+I understand what code does when I read it, but building it from scratch without a reference or example is still where I'm stuck. The pieces of a function and how to fit them all together is still hard for me to grasp.
+
+### Work Completed (Week 3)
+
+**Design Tokens**
+- [x] variables.css exists
+- [x] Color tokens defined
+- [x] Typography tokens defined
+- [x] Spacing tokens defined
+- [x] Tokens used in CSS (no hardcoded values)
+
+**Theme System**
+- [x] Uses data-theme on <html>
+- [x] Toggle feedback is immediate
+
+**Persistence & Preference**
+- [x] Theme saved to localStorage
+- [x] Theme persists on refresh
+- [x] System preference used on first visit
+
+**Deployment**
+- [x] Deployed to GitHub Pages
+- [x] Repository is public
 
 *This README will evolve. At quarter's end, it transforms into a portfolio landing page.*
